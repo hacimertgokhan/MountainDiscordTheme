@@ -5,4 +5,3 @@ If you don't have a file, contact. Create a file named css (get the extension cs
 You create codes in css. Drop it to a file named css
 - Link from Dosya.tc > https://s5.dosya.tc/server5/ncw0of/Mountain.css.html
 - Link from MediaFire > https://www.mediafire.com/file/r28atvbggzke0fu/Mountain.css/file
-- Give me a sand dust :D > https://bit.ly/3mX6FwV
